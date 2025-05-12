@@ -1,0 +1,76 @@
+@import "tailwindcss";
+@plugin "daisyui";
+@media (max-width: 768px) {
+    html, body {
+      overflow-x: hidden;
+    }
+  }
+  :root {
+  --background-color: white;
+  --text-color: black;
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  transition: all 0.3s ease;
+}
+
+
+[data-theme="dark"] {
+  --background-color: #1a1a1a;
+  --text-color: white;
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+.home{
+    background-image: url('/shopping.jpg');
+    background-size: cover;
+    background-position: center;
+    /* z-index: -1 ; */
+    background-repeat: no-repeat;
+    /* background-color: aqua; */
+    
+}
+.add{
+    background-image: url('https://5.imimg.com/data5/SELLER/Default/2023/12/369317901/JE/IJ/QY/186527082/jeera-cookies.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.add2{
+    background-image: url('https://media.istockphoto.com/id/811955724/photo/toor-dal-or-arhar-dal-or-raw-pulses.jpg?s=1024x1024&w=is&k=20&c=lOHPjIJyJaVuHuyJIUslqrjI1TTtmacXpCBaTIf43oE=');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.add3{
+     background-image: url('https://p.w3layouts.com/demos_new/template_demo/06-10-2021/grocery-mart-liberty-demo_Free/794674028/web/images/bgs3.jpg');
+     background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat;
+}
+.add4{
+    background-image: url('https://p.w3layouts.com/demos_new/template_demo/06-10-2021/grocery-mart-liberty-demo_Free/794674028/web/images/bgs5.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.add5{
+    background-image: url('https://p.w3layouts.com/demos_new/template_demo/06-10-2021/grocery-mart-liberty-demo_Free/794674028/web/images/bgs4.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.active{
+    /* background-color: ; */
+    color: rgb(209, 89, 119);
+    border-radius: 10px;
+    border-bottom: 2px solid rgb(209, 89, 119);
+}
+
+.childNav .active{
+    background-color: #f0f0f0;
+    color: #000;
+}

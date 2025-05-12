@@ -1,0 +1,135 @@
+[
+    {
+        "id": 1,
+        "name":"Ladies Finger",
+        "price": 20,
+        "image":"https://media.istockphoto.com/id/1261579606/photo/many-fresh-ladys-finger-or-okra-isolated-on-white-background.jpg?s=1024x1024&w=is&k=20&c=h77KKsHnyWLmtDImH6cEDUTEBBNXImPK4G0kILJJfZ0="
+    },
+    {
+        "id": 2,
+        "name":"Tomato",
+        "price": 30,
+        "image":" https://media.istockphoto.com/id/174930196/photo/tomato.jpg?s=1024x1024&w=is&k=20&c=iG5iokoa1rHQxlqjUilBVSTUWYY0emw6Iz5Qq7Wdvi0="
+    },
+    {
+        "id": 3,
+        "name":"Potato",
+        "price": 25,
+        "image":"https://media.istockphoto.com/id/692951090/photo/organic-potatoes-on-rustic-background.jpg?s=1024x1024&w=is&k=20&c=VRh8a-yzZdF9whKb-jiIxI5nEDUQkPk7OoTHAfxfhow="
+    },
+    {
+        "id": 4,
+        "name":"Onion",
+        "price": 15,
+        "image":"https://media.istockphoto.com/id/175448479/photo/red-onion-slice.jpg?s=1024x1024&w=is&k=20&c=AefRAXhn3u3MIScShKTE9XWyJvNn-5wvbM9OPJwdgtE="
+    },
+    {
+        "id": 5,
+        "name":"Carrot",
+        "price": 40,
+        "image":"https://media.istockphoto.com/id/1388403435/photo/fresh-carrots-isolated-on-white-background.jpg?s=1024x1024&w=is&k=20&c=AZlR713OB95BftaWVrKHOLKcbX1VYSWBHfGs1C6_nj8="
+    },
+    {
+        "id": 6,
+        "name":"Pistachio",
+        "price": 500,
+        "image":"https://media.istockphoto.com/id/153019176/photo/pistachios.jpg?s=1024x1024&w=is&k=20&c=BRp34ay-FZ-s_isJMGQy3-Yudw1lz-IJezWpQcdFOdk="
+    },
+    {
+        "id": 7,
+        "name":"cashew",
+        "price": 600,    
+        "image":"https://media.istockphoto.com/id/1195954829/photo/cashew-nuts-in-basket-on-black-background.jpg?s=1024x1024&w=is&k=20&c=xUok876vBPyx92LLHoyQArvKzusBREL-uexWvkzLRy8="
+    },
+    {
+        "id": 8,
+        "name":"Walnuts",
+        "price": 400,
+        "image":"https://media.istockphoto.com/id/881649034/photo/walnut.jpg?s=1024x1024&w=is&k=20&c=LyhT-4e7Kvpv5ZGBdp67a7LI_BlxAtMQ826uM1yFusA="
+    },
+    {
+        "id": 9,
+        "name":"Tamarind Chicken",
+        "price": 700,
+        "image":"https://www.foodandwine.com/thmb/jJupeS5vHMkh9TBsJkwdaG1uPY8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Tamarind-Chicken-FT-RECIPE0522-80072d93f7bc4bc7abf1dcf5b5317b0c.jpg"
+    },
+    {
+        "id": 10,
+        "name":"Seafood",
+        "price": 200,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvKb-XvOqfJKUxTdbhUqnEmVQ-bfLo_VnRtg&s="
+    },
+    {
+        "id": 11,
+        "name":"chicken sorma",
+        "price": 200,
+        "image":"https://whatstheword.co/blog/wp-content/uploads/2022/01/image-39.png"
+    },
+    {
+        "id": 12,
+        "name":"Almonds",
+        "price": 550,
+        "image":"https://media.istockphoto.com/id/459957149/photo/raw-almonds-soaking-in-a-white-bowl-of-water.jpg?s=1024x1024&w=is&k=20&c=ZC2cwZbl64nWRaTKegIyeWJ6ukiEfvyZOm2_RC2Qm8Q="
+    },
+    {
+        "id": 13,
+        "name":"Biscuts",
+        "price": 300,
+        "image":"https://5.imimg.com/data5/SELLER/Default/2023/12/369317901/JE/IJ/QY/186527082/jeera-cookies.jpg"
+    },
+    {
+        "id": 14,
+        "name":"Nehari",
+        "price": 300,
+        "image":"https://blogbox.indianeagle.com/wp-content/uploads/2015/06/lucknow-non-vegetarian-food.jpg"
+    },
+    {
+        "id": 15,
+        "name":"Red Arhar Dal", 
+        "price": 90,
+        "image":"https://media.istockphoto.com/id/811955724/photo/toor-dal-or-arhar-dal-or-raw-pulses.jpg?s=1024x1024&w=is&k=20&c=lOHPjIJyJaVuHuyJIUslqrjI1TTtmacXpCBaTIf43oE="
+    },
+    {
+        "id": 16,
+        "name":"Capbury Dairy Milk",
+        "price": 100,
+        "image":"https://media.istockphoto.com/id/459002871/photo/box-of-six-cadbury-cream-egg-snack-cakes.jpg?s=1024x1024&w=is&k=20&c=_VvdtRWItN8rfY_PSq8lz6q2GiM6e4LE2qTphqBBueg="
+    },
+    {
+        "id": 17,
+        "name":"Biryani",
+        "price": 150,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMVIM8RwPJ5m2FuwK02cIimHDzStUyTob2ZQ&s"
+    },
+    {
+      " id": 18,
+        "name": "Birthday Cake",
+        "price": 150,
+        "image": "https://bakeneto.com/wp-content/uploads/2023/10/2-Tier-Almond-Cake.webp"
+
+    },
+    {
+        "id": 19,
+        "name":"Cake",
+        "price": 150,    
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9BhIUoBE-S8MhrW2n0sMUloIqztDHnaaSew&s"
+    },
+    {
+        "id": 20,
+        "name":"Coco Cola",
+        "price": 50,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7v8sxzg25LIvCVrgnlzQrN4sAa8h8bYlClA&s"
+    },
+    {
+        "id": 21,
+        "name":"ice cream",
+        "price": 100,
+        "image":"https://media.istockphoto.com/id/936205852/photo/chocolate-ice-cream-in-a-glass-cup.jpg?s=612x612&w=0&k=20&c=gcPTroDVPNSlCS45BkqEG-6-REnKFEzboBpuX8O3lY4="
+    },
+    {
+        "id": 22,
+        "name":"Papsi",
+        "price": 50,
+        "image":"https://www.shutterstock.com/image-photo/kuala-lumpur-malaysia-june-12-260nw-1993970402.jpg"
+    }
+]
