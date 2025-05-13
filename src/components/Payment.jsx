@@ -22,7 +22,7 @@ const PaymentPage = () => {
       setError('')
       
       // 1. Create Razorpay order from backend
-      const res = await axios.post('http://localhost:5000/api/payment', {
+      const res = await axios.post('https://gofood-backend-mocha.vercel.app/api/payment', {
         amount: 500  // e.g. ₹500
       })
 

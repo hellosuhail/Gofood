@@ -44,7 +44,7 @@ const FoodOrderPage = () => {
 
     try {
       const orderDetails = { ...formData, itemName: name, itemPrice: price };
-      const response = await axios.post('http://localhost:5000/api/order', orderDetails);
+      const response = await axios.post('https://gofood-backend-mocha.vercel.app/api/order', orderDetails);
       console.log('Order placed:', response.data);
       navigate('/pay');
     } catch (error) {
