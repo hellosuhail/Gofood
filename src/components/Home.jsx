@@ -47,8 +47,8 @@ const shop= () => {
       <div className="container mx-auto px-4 py-8">
         <div className="flex flex-col lg:flex-row gap-8">
           <div className="lg:w-1/3">
-            <div className="flex relative w-full flex-col h-[70vh] items-center bg-white rounded-xl shadow-lg overflow-hidden">
-              <iframe width="560" height="315" src="x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <div className="flex h-50 relative w-full md:mt-25 flex-col md:h-[70vh] items-center bg-white rounded-xl shadow-lg overflow-hidden">
+       <img src="https://media4.giphy.com/media/rdMYuReB3gY54grNo7/source.gif" alt="" />
               <div className="absolute inset-0 bg-black/50 justify-center items-center flex transition-opacity duration-300 opacity-0 hover:opacity-100">
                 <button
                   onClick={togglePlay}
