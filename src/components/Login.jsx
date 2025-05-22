@@ -14,10 +14,10 @@ const Login = () => {
         password,
       });
 
-      const { token, message } = res.data;
-
-
-      localStorage.setItem("token", token);
+      //const { token, message } = res.data;
+      //localStorage.setItem("token", token);
+           const { id, email } = res.data.user;
+      localStorage.setItem("login", JSON.stringify({ id, email }));
 
       alert(message); 
     } catch (err) {
